@@ -1,0 +1,6 @@
+name = Table To CSV
+description = A module that uses jQuery, AJAX, and PHP to read any table with the table_to_csv_class and exports the data to a CSV format
+core = 7.x
+package = Table To CSV
+files[] = table_to_csv.module
+scripts[] = table_to_csv.js
